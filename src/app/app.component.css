@@ -1,0 +1,43 @@
+.bs-example{
+    margin: 20px;
+}
+
+.btn{
+    width: 200px;
+}
+.nav-br{
+    align-content: center;
+}
+.start-practice{
+    float: right;
+}
+ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+.log{
+    float: right;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+.caro {
+    width:1600px;
+    height:350px;
+  }
+  .nav-stv{
+      text-align: center;
+      color: aliceblue;
+  }
+  .btn1{
+ margin-left: 165px;
+    height: 50px;
+    width: 100px;
+  }
+  p h3{
+      text-align: center;
+  }
+ 
+  
+ 
